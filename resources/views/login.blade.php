@@ -115,7 +115,7 @@
           $('.bk_toptips span').html(data.message);
           setTimeout(function() {$('.bk_toptips').hide();}, 2000);
           return;
-        }
+        }bk_toptips
 
         $('.bk_toptips').show();
         $('.bk_toptips span').html('登录成功');

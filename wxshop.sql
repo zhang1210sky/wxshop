@@ -242,7 +242,7 @@ INSERT INTO `wxshop_product` VALUES ('2', 'Node.js权威指南', '以实践为�
 INSERT INTO `wxshop_product` VALUES ('3', 'React', '身出名门，Fackbook开源巨献，一经推出，瞬间亮瞎全球攻城狮,以BAT为首的一线国内互联网企业均以快速跟进研发、实践React，下一次求职你就一定会被面到', '10.00', '/images/3.jpg', '8', null, null);
 INSERT INTO `wxshop_product` VALUES ('4', 'React Native', '如果你对开发Web端的原生移动应用感兴趣，《React Native：用JavaScript开发移动应用》就是一本不容错过的以实例代码为引导的入门书籍', '10.00', '/images/4.jpg', '8', null, null);
 INSERT INTO `wxshop_product` VALUES ('5', 'test', 'sss', '999.00', '/upload/images/20160229/ca8fd990a0cd3c4937afd7107cf01389.png', '7', '2016-02-29 02:15:37', '2016-02-29 02:15:37');
-INSERT INTO `wxshop_product` VALUES ('6', 'test2', 'x\'x\'x\'x', '999.00', '/upload/images/20160229/305ab8feeff80360d817e70580c6b6e6.png', '7', '2016-02-29 02:50:42', '2016-02-29 02:50:42');
+INSERT INTO `wxshop_product` VALUES ('6', 'test2', 'xxx', '999.00', '/upload/images/20160229/305ab8feeff80360d817e70580c6b6e6.png', '7', '2016-02-29 02:50:42', '2016-02-29 02:50:42');
 
 -- ----------------------------
 -- Table structure for wxshop_temp_email
